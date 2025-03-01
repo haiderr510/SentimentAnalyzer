@@ -1,0 +1,9 @@
+body {
+  text-align: center;
+}
+
+#inputBox {
+  width: 80%;
+  height: 10rem;
+  padding-bottom: 50px;
+}
